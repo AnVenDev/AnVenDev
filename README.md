@@ -1,4 +1,4 @@
-# AnVenDev
+# Andrea Venè
 
 Hello there! 👋 I'm Andrea, a passionate full stack developer blending my love for coding with a deep fascination for blockchain technology, statistics, and quantum physics.
 
