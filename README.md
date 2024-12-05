@@ -1,6 +1,6 @@
 # Andrea Venè
 
-Hello there! 👋 I'm Andrea, a passionate full stack developer blending my love for coding with a deep fascination for blockchain technology, statistics, and quantum physics.
+Hello there! 👋 I'm Andrea, a passionate data scientist blending my love for coding with a deep fascination for blockchain technology, statistics, and quantum physics.
 
 ### About Me
 
